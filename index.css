@@ -13,8 +13,8 @@ body {
 
 .back {
 	background-image: url('background.jpg');
-	background-repeat: repeat;
-	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: auto;
 	height: 1vh;
 }
 
